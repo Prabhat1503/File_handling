@@ -33,7 +33,12 @@ This project demonstrates how to handle **JSON** and **CSV** files using **PySpa
 3. **Output**:
     - The script will output:
         - A new JSON file after reading from the initial JSON file.
+         ![image](https://github.com/user-attachments/assets/dc024bc0-89f9-4406-a61c-ba9288c80751)
+
         - A **Parquet** file and **Delta** table after processing the CSV data.
+          
+          ![image](https://github.com/user-attachments/assets/603e60eb-d33d-4f4d-a857-0b43ad3b7346)
+
 
 ## Notes:
 - The Delta format requires **Delta Lake** to be enabled in your Databricks environment.
