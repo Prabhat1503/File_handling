@@ -3,7 +3,7 @@
 This project demonstrates how to handle **JSON** and **CSV** files using **PySpark** on **Databricks**. The tasks involve reading data, displaying content and schema, and saving the output in multiple formats such as JSON, Parquet, and Delta.
 
 ## Files in this Project:
-- `file_handling_example.py`: Contains the PySpark code for file handling on Databricks.
+- `Json_Csv`: Contains the PySpark code for file handling on Databricks.
 - `README.md`: This documentation file.
 
 ## Steps Covered:
@@ -24,7 +24,7 @@ This project demonstrates how to handle **JSON** and **CSV** files using **PySpa
 
 1. **Set Up in Databricks**:
     - Ensure that your Databricks environment has PySpark configured.
-    - Update file paths in the script (`file_handling_example.py`) to match your Databricks FileStore (e.g., `/FileStore/tables/`).
+    - Update file paths in the script (`Json_Csv`) to match your Databricks FileStore (e.g., `/FileStore/tables/`).
 
 2. **Running the Code**:
     - Upload the script to your Databricks workspace.
